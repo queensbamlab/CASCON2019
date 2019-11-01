@@ -1,1 +1,9 @@
-# CASCON2019
+# A Hands-on Tutorial on Deep Learning for Object and Pattern Recognition
+Deep learning, a subfield of machine learning has emerged as a powerful technique that learns multiple layers of representations of data. The collection of algorithms implemented under deep learning have similarities with the relationship between stimuli and neurons in the human brain. The algorithms apply supervised and unsupervised learning approaches to train the deep learning models from a given set of labelled and unlabeled data respectively. Deep learning methods have already made impressive advances in fields such as computer vision and pattern recognition. There are many interesting and promising applications of deep learning techniques to challenging perception, recognition, classification and clustering problems such as detecting and recognizing objects in streaming videos; learning patterns from natural language text or voice data, and extracting key features from streaming sensor data from the Internet of Things (IoT) that are producing state-of-the-art prediction results. Due to the increased availability of large amounts of data from digital resources, IoT devices and social media platforms, advancements in computing power, and newer more efficient training algorithms, we are observing a steady growth in the application of deep learning methods in many areas. This workshop is designed to provide an introduction to fundamental concepts of deep learning algorithms and hands-on tutorials to aspiring data scientists, researchers, industry practitioners, and deep learning enthusiasts looking to build or integrate the power of deep learning in their business applications.
+## CASCON 2019 and the workshop link
+### CASCON
+https://www-01.ibm.com/ibm/cas/cascon/
+### Workshop part 1
+https://pheedloop.com/cascon/site/sessions/?id=LLGFyZ
+### Workshop part 2
+https://pheedloop.com/cascon/site/sessions/?id=aknHLV
